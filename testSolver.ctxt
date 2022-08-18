@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=testSolver
+comment0.text=\r\n\ Lav\ en\ beskrivelse\ af\ klassen\ testSolver\ her.\r\n\ \r\n\ @author\ Martin\ Pugdal\ Pedersen\r\n\ @version\ 2021-11-01\r\n
+comment1.params=
+comment1.target=void\ legalTest()
+comment1.text=\r\n\ Tester\ om\ det\ passer\ med\ det\ billede\ fra\ opgaven.\r\n
+numComments=2

@@ -1,0 +1,1 @@
+16 queens på 3 minutter kan der maksimum findes løsninger på.
